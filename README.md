@@ -1,4 +1,4 @@
-![https://user-images.githubusercontent.com/50464626/91492917-d6800100-e88c-11ea-971a-17674175a9db.png](/relative/path/to/img.jpg?raw=true "Take your pill")
+![Alt text](/relative/path/to/img.jpg?raw=true "https://user-images.githubusercontent.com/50464626/91492917-d6800100-e88c-11ea-971a-17674175a9db.png")
 
 <h1 text align: center> Learn Javascript :)</h1>
 <h2> Feel Free </h2>

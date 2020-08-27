@@ -1,2 +1,2 @@
-# Learn-Javascript
-I decide share my books and solved exercices for the public, feel free to download, study and modify the content.
+<h1 text align: center> Learn Javascript :)<h1>
+<h2> I decide share my books,solved exercices and my codes about Javascipt for the public, feel free to download, study and modify the content.<h2>

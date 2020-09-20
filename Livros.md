@@ -4,6 +4,6 @@
 
 link para o acesso: https://drive.google.com/drive/folders/1aByGExRXaahSinxPtYo6ty2pRj1kKZW7?usp=sharing
 
-caso o link esteja inativo abra uma Issue que tomarei as medidas necessárias para repará-lo.
+caso o link esteja inativo abra uma **Issue** que tomarei as medidas necessárias para repará-lo.
 
-ou envie uma mensagem para meu email para que eu disponibilize o link : theblacknerdofficial@gmail.com
+ou envie uma mensagem para meu email para que eu disponibilize o link: theblacknerdofficial@gmail.com ou brunoluz01.bl@gmail.com

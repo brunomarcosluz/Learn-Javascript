@@ -1,6 +1,6 @@
-Todos livros adquiridos aqui são apenas para o uso *EDUCACIONAL* não dispensa a compra da obra original, se você conseguiu de graça distribua de graça.
+<h1 align="center">Todos livros adquiridos aqui são apenas para o uso **EDUCACIONAL** não dispensa a compra da obra original, se você conseguiu de graça distribua de graça.</h1>
 
--Conhecimento não se leva ao túmulo.
+## Conhecimento não se leva ao túmulo. :brain: 
 
 link para o acesso: https://drive.google.com/drive/folders/1aByGExRXaahSinxPtYo6ty2pRj1kKZW7?usp=sharing
 

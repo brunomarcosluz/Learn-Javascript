@@ -1,4 +1,4 @@
-<h1 align="center">Todos livros adquiridos aqui são apenas para o uso **EDUCACIONAL** não dispensa a compra da obra original, se você conseguiu de graça distribua de graça.</h1>
+<h1 align="center">Todos livros adquiridos aqui são apenas para o uso **EDUCACIONAL** não dispensa a compra da obra original, se você conseguiu de graça distribua de graça. :book:</h1>
 
 ## Conhecimento não se leva ao túmulo. :brain: 
 
